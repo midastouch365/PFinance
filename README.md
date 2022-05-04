@@ -33,9 +33,9 @@ The records are persisted locally in the built-in database, so you should see th
 # How could it be better?
 
 - Ability to log in and log out
-- Ability to transfer money and/or cryptocurrencies to close friends
+- Ability to transmit and accept cryptocurrencies
 - Ability to deposit checks
-- Ability to keep track of digital receipts for tax purposes
+- Ability to maintain digital receipts for business ownere/tax purposes
 
 # App Preview
 
