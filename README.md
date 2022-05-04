@@ -16,7 +16,8 @@ The records are persisted locally in the built-in database, so you should see th
 # How it could be better
 
 - Authenticate users so they can log in and log out
-- Ability to transfer money to close friends
+- Ability to transfer money and/or cryptocurrency to close friends
+- Ability to deposit checks
 
 # Screenshots
 
