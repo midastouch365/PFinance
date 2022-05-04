@@ -1,4 +1,4 @@
-# PFinance
+# PFinance 
 
 In this project, I created a personal finance app that allows users to keep track of their income and expenses. The app uses core data for data management.
 The records are persisted locally in the built-in database, so you should see the records even after restarting the app.
