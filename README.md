@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midastouch365" alt="midastouch365" /></a> </p>
 
-- 🔭 I’m currently working on [a personal finance app](https://github.com/midastouch365/PFinance)
+- 🔭 I’m currently working on **[a personal finance app](https://github.com/midastouch365/PFinance)**
 
 - 🌱 I’m currently learning **SwiftUI**
 
