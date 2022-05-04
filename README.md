@@ -24,4 +24,6 @@ The records are persisted locally in the built-in database, so you should see th
 
 # Author
 
-Oluwabusayo Adebayo [@codingwithbusayo](https://www.instagram.com/codingwithbusayo/)
+Oluwabusayo Adebayo 
+- [@codingwithbusayo](https://www.instagram.com/codingwithbusayo/)
+- [@busayo2x](https://www.linkedin.com/in/busayo2x/)
