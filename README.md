@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Busayo Adebayo</h1>
-<h3 align="center">A self-taught iOS Developer in Chicago.</h3>
+<h1 align="center">Hi 👋, I'm Oluwabusayo Adebayo</h1>
+<h3 align="center">A self-taught iOS Developer from Chicago.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=midastouch365&label=Profile%20views&color=0e75b6&style=flat" alt="midastouch365" /> </p>
 
@@ -47,3 +47,8 @@ The records are persisted locally in the built-in database, so you should see th
 <img width="361" alt="Screen Shot 2022-05-03 at 9 41 43 PM" src="https://user-images.githubusercontent.com/42994762/166616888-af66f7d0-7cfc-4c82-9229-e39608cade59.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 42 54 PM" src="https://user-images.githubusercontent.com/42994762/166616891-40e0ba9e-3551-46b0-85e1-a38ac0dffb43.png">
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/busayo2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="busayo2x" height="30" width="40" /></a>
+<a href="https://instagram.com/codingwithbusayo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codingwithbusayo" height="30" width="40" /></a>
+</p>
