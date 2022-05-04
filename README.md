@@ -25,6 +25,7 @@ The records are persisted locally in the built-in database, so you should see th
 <img width="361" alt="Screen Shot 2022-05-03 at 9 13 34 PM" src="https://user-images.githubusercontent.com/42994762/166616855-0ec12537-b0d8-42ba-a270-1985a13b8f6e.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 13 43 PM" src="https://user-images.githubusercontent.com/42994762/166616864-7224fee6-3c8a-4317-a974-ae64297ca6df.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 13 52 PM" src="https://user-images.githubusercontent.com/42994762/166616875-681cffd5-fd22-4e88-b0d4-b74776162408.png">
+<img width="361" alt="Screen Shot 2022-05-03 at 11 13 41 PM" src="https://user-images.githubusercontent.com/42994762/166622352-b94fd2ba-2e66-44b9-9e20-3576cfa9c18d.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 14 02 PM" src="https://user-images.githubusercontent.com/42994762/166616883-bf780f92-4dde-4521-9eca-a7183ca01e16.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 41 43 PM" src="https://user-images.githubusercontent.com/42994762/166616888-af66f7d0-7cfc-4c82-9229-e39608cade59.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 42 54 PM" src="https://user-images.githubusercontent.com/42994762/166616891-40e0ba9e-3551-46b0-85e1-a38ac0dffb43.png">
