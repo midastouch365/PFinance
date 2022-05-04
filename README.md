@@ -13,6 +13,11 @@ The records are persisted locally in the built-in database, so you should see th
 6. How to use Date Picker for date selection
 7. How to handle keyboard notification and adjust the form position
 
+# How it could be better
+
+- Authenticate users so they can sign in and sign out
+- Ability to transfer money to close friends
+
 # Screenshots
 
 <img width="361" alt="Screen Shot 2022-05-03 at 9 13 34 PM" src="https://user-images.githubusercontent.com/42994762/166616855-0ec12537-b0d8-42ba-a270-1985a13b8f6e.png">
