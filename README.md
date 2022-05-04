@@ -1,6 +1,23 @@
-# PFinance 
+<h1 align="center">Hi 👋, I'm Busayo Adebayo</h1>
+<h3 align="center">A self-taught iOS Developer in Chicago.</h3>
 
-In this project, I created a personal finance app that allows users to keep track of their income and expenses. The app uses core data for data management.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=midastouch365&label=Profile%20views&color=0e75b6&style=flat" alt="midastouch365" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=midastouch365" alt="midastouch365" /></a> </p>
+
+- 🔭 I’m currently working on [a personal finance app](https://github.com/midastouch365/PFinance)
+
+- 🌱 I’m currently learning **SwiftUI**
+
+- 💬 Ask me about **coding, real estate, stocks, and crypto**
+
+- 📫 How to reach me **oadebayo117@gmail.com** or **[here](https://linktr.ee/busayo2x)**
+
+- ⚡ Fun fact **I love to travel and talk about how to build generational wealth.**
+
+# Project Overview 
+
+In this project, I created a personal finance app (PFinance) that allows users to keep track of their income and expenses. The app uses core data for data management.
 The records are persisted locally in the built-in database, so you should see the records even after restarting the app.
 
 # What did I learn?
@@ -13,14 +30,14 @@ The records are persisted locally in the built-in database, so you should see th
 6. How to use Date Picker for date selection
 7. How to handle keyboard notification and adjust the form position
 
-# How it could be better
+# How could it be better?
 
 - Ability to log in and log out
 - Ability to transfer money and/or cryptocurrencies to close friends
 - Ability to deposit checks
-- Ability to keep track of digital receipts 
+- Ability to keep track of digital receipts for tax purposes
 
-# Screenshots
+# App Preview
 
 <img width="361" alt="Screen Shot 2022-05-03 at 9 13 34 PM" src="https://user-images.githubusercontent.com/42994762/166616855-0ec12537-b0d8-42ba-a270-1985a13b8f6e.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 13 43 PM" src="https://user-images.githubusercontent.com/42994762/166616864-7224fee6-3c8a-4317-a974-ae64297ca6df.png">
@@ -30,8 +47,3 @@ The records are persisted locally in the built-in database, so you should see th
 <img width="361" alt="Screen Shot 2022-05-03 at 9 41 43 PM" src="https://user-images.githubusercontent.com/42994762/166616888-af66f7d0-7cfc-4c82-9229-e39608cade59.png">
 <img width="361" alt="Screen Shot 2022-05-03 at 9 42 54 PM" src="https://user-images.githubusercontent.com/42994762/166616891-40e0ba9e-3551-46b0-85e1-a38ac0dffb43.png">
 
-# Author
-
-Oluwabusayo Adebayo 
-- [Instagram](https://www.instagram.com/codingwithbusayo/)
-- [LinkedIn](https://www.linkedin.com/in/busayo2x/)
